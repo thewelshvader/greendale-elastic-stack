@@ -1,0 +1,1 @@
+# greendale-elastic-stack
